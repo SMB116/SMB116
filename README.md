@@ -1,7 +1,6 @@
 H   E   L   L   O
 
-![image](https://github.com/SMB116/SMB116/assets/124625985/d3acc9d9-9d76-41a3-8763-01d46e4daabf)
-
+![image](https://github.com/SMB116/SMB116/assets/124625985/716db4ae-4ecc-410e-bcd4-012de5f096c1)
 
 - 👋 Hi, I’m Shekela. Teacher turn Data Analyst 
 - 👀 I’m interested in anything data
